@@ -4,6 +4,7 @@
 -   👨‍💻 Experiência em DDD, Clean Architecture e SOLID
 -   👨‍💻 Experiência em containers - Docker
 -   👨‍💻 Experiência em entrega contínua - Gitlab
+-   👨‍💻 Experiência em GitFlow
 -   👨‍💻 Aprimorando habilidades em Microserviços
 -   👨‍💻 Aprimorando habilidades em Mensageria RabbitMQ e Apache Kafka
 -   👨‍💻 Aprimorando habilidades em monitoramento - Prometheus e Grafana
