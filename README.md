@@ -1,6 +1,6 @@
 <h2> Seja Bem-vindo!!</h2>
 
--   👨‍💻 Desenvolvedor FullStack
+-   👨‍💻 Desenvolvedor Full Stack
 -   👨‍💻 Experiência em DDD, Clean Architecture e SOLID
 -   👨‍💻 Experiência em containers - Docker
 -   👨‍💻 Experiência em entrega contínua - Gitlab
